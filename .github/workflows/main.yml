@@ -15,3 +15,5 @@ jobs:
         uses: digreatbrian/buildozer-action@v1
         with:
           workdir: .
+main.py
+buildozer.spec
